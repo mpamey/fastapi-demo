@@ -1,8 +1,13 @@
 # cache
 __pychace__
-
+app/__pychace__
 # environment variables
 .env
 
 # virtual environment
 venv/
+
+# .idea
+.idea/
+
+
